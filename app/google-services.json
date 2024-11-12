@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "877926264609",
+    "project_id": "collegeapp-34f99",
+    "storage_bucket": "collegeapp-34f99.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877926264609:android:f2ab12f80d671caec95860",
+        "android_client_info": {
+          "package_name": "com.example.collegeappjetpackcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUzbwQR9onA4L7DK0aQmuy6k4wmsexipk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
